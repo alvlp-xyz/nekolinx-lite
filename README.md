@@ -37,7 +37,7 @@ You have been warned.
 
 ---------
 
-### fitur-fitur
+### Features
 - ✔️ | **Auto Status** 
 - ✔️ | **Auto Online** 
 - ✔️ | **Auto Typing (Private Chat Only)** 
@@ -46,7 +46,7 @@ You have been warned.
 
 ## Installation
 
-[ Termux Full Install ]
+### [ Termux Full Install ]
 Copy and paste this command
 
 ```bash
@@ -77,7 +77,7 @@ npm update
 
 ## ```Setup Bot (data.json)```
 
-## `Auto Status`
+### `Auto Status`
 * set a number that can see your whatsapp status, this only works for status sent by bot
 
 ---------
