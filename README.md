@@ -1,11 +1,8 @@
 <p align="center">
 </p>
 <h1 align="center">Nekolinx Lite  WhatsApp Bot</h1>
-</p>
-
-##
-<p align="center">
 <a><img src="https://img.shields.io/badge/Maintaned%3F-Actively%20Developed-blue?style=flat-square"></a>
+</p>
 
 [ LANGUAGE ]
 [`Bahasa Indonesia`](https://github.com/alvlp-xyz/nekolinx-lite/blob/main/id.md)
@@ -15,8 +12,9 @@
 
 [ WARNING ]
 ```bash
-I am not responsible for any damage on your device or phone number
-You have been warned. 
+- Because WhatsApp is sensitive, this Bot has not been fully tested, I am not responsible if your number is blocked by WhatsApp
+- I am not responsible for any damage on your device or phone number
+!! You have been warned. 
 ```
 
 ---------
