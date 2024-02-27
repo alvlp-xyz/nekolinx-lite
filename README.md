@@ -1,7 +1,6 @@
 <p align="center">
 </p>
-<h1 align="center">Nekolinx Lite</h1>
-<h2 align="center">WhatsApp Bot</h2>
+<h1 align="center">Nekolinx Lite  WhatsApp Bot</h1>
 </p>
 
 ##
