@@ -1,4 +1,3 @@
-```markdown
 <p align="center">
 </p>
 <h1 align="center">Nekolinx Lite WhatsApp Bot</h1>
