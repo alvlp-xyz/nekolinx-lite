@@ -1,0 +1,22 @@
+{
+  "name": "nekolinx-lite",
+  "version": "0.0.3",
+  "description": "WhatsApp Bot Lite",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvlp-xyz/nekolinx-lite.git"
+  },
+  "keywords": [
+    "whatsapp-bot"
+  ],
+  "author": "ALVLP",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alvlp-xyz/nekolinx-lite/issues"
+  },
+  "homepage": "https://github.com/alvlp-xyz/nekolinx-lite#readme"
+}
