@@ -1,10 +1,8 @@
 <p align="center">
 </p>
-<h1 align="center">Nekolinx Lite - WhatsApp Bot</h1>
-
+<h1 align="center">Nekolinx Lite</h1>
+<h2 align="center">WhatsApp Bot</h2>
 </p>
-<p align="center">
-<a href="https://github.com/alvlp-xyz"><img title="Author" src="https://img.shields.io/badge/AUTHOR-alvlp-xyz-green.svg?style=for-the-badge&logo=github"></a>
 
 ##
 <p align="center">
