@@ -1,28 +1,14 @@
 {
-  //Nomor Yang Dijinkan Menelpon Anda
   "IjinkanPanggilan": [
     "62888888@s.whatsapp.net",
     "62888888@s.whatsapp.net"
   ],
-  
-  
-  //Nomor Yang Dijinkan Melihat Status Anda
-  //Note: Hanya Dapat Berfungsi Untuk Pesan Dari Bot
   "NomorDijinkanMelihatStatus": [
     "6288888888@s.whatsapp.net",
     "6288888888@s.whatsapp.net",
     "6288888888@s.whatsapp.net"
   ],
-  
-  //Pesan Tolakan Jika Ada Panggilan
-  "PesanAntiCall": "Maaf untuk saat ini, Saya tidak dapat menerima panggilan, entah dalam group atau pribadi\n\nJika Membutuhkan bantuan ataupun silahkan chat"
-  
-  
-  //###Config Status WhatsApp###//
-  
-  //Warna Background Status
+  "PesanAntiCall": "Maaf untuk saat ini, Saya tidak dapat menerima panggilan, entah dalam group atau pribadi\n\nJika Membutuhkan bantuan ataupun silahkan chat",
   "backgroundColor": "#000000",
-  
-  //Tipe Font Status
   "font": 3
 }
