@@ -1,13 +1,13 @@
-import baileys from '@whiskeysockets/baileys'
-import express from 'express'
-import P from 'pino'
-import qrcode from 'qrcode'
-import cron from 'node-cron';
-import axios from 'axios';
+const baileys = require('@whiskeysockets/baileys');
+const express = require('express');
+const P = require('pino');
+const qrcode = require('qrcode');
+const cron = require('node-cron');
+const axios = require('axios');
 const fs = require('fs');
 
 var qrwa = null
-var PORT = process.env.PORT || 80 || 8080 || 3000
+var PORT = process.env.PORT || 8080 || 3000
 const app = express()
 app.enable('trust proxy')
 app.set("json spaces", 2)
